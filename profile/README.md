@@ -1,6 +1,6 @@
 # AESTHETICRECORD.COM
 
-# Setup for developers
+## Setup for developers
 - Install the requirements from req.txt file
 - Repositories are build on top of python3, django, scrapy at the core.
 
