@@ -44,6 +44,11 @@ We have scripts for
 ### Data Migration (D/M)
 Under this head of tasks, we have to follow a 3 step process. Scraping data from a system -> Storing data in server or local -> Migrating the stored data to AR.
 
+### Data we can't get
+- irrejuventaion
+- vagaro
+- nexttech
+
 ### Data we can get
 
 #### Myaestheticspro
