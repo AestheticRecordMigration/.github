@@ -50,7 +50,7 @@ Under this head of tasks, we have to follow a 3 step process. Scraping data from
 - Patient Demographics
 - Documents: Invoices, Photos
 - Notes
-- Some of the documents
+- Some of the documents (Consent Forms, Treatment Records)
 - Past & Future Appointments
 
 #### Booksy
@@ -80,6 +80,7 @@ Under this head of tasks, we have to follow a 3 step process. Scraping data from
 - Patient Demographics
 - Notes: Comments
 - Documents: Images
+- Documents we cant get- everything under client forms
 
 #### Janeapp
 - Patient Demographics
