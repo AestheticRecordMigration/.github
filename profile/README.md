@@ -17,6 +17,7 @@ https://aestheticrecord.postman.co/
 ### migration-scripts
 - This repository contains code related to the scripts.
 - We have scripts for uploading data to AR and scraping data from various platforms.
+- We can also refer to this sheet to get an idea about what fields we have to scrape: https://docs.google.com/spreadsheets/d/1GGxgO3N0-01nYM2KvLEhJWYypLJ_dCgvrcV77plNdT0/edit#gid=956186815
 
 
 ## Types of Tasks
