@@ -11,6 +11,8 @@ To get access to the servers, your have to first generate SSH keys for your syst
 ### migration-api
 - This repository contains all code related to the apis. 
 - We have api's for inventory, services, variation, giftcards, promotions or packages, patient demographics, documents, notes, appointments, procedures.
+- In case if need to explore aestheticrecord.com api's to update this repo, then we can refer to postman collection of AR api's 
+https://aestheticrecord.postman.co/
 
 ### migration-scripts
 - This repository contains code related to the scripts.
