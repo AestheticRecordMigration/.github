@@ -1,5 +1,9 @@
 # AESTHETICRECORD.COM
 
+# Setup for developers
+- Install the requirements from req.txt file
+- Repositories are build on top of python3, django, scrapy at the core.
+
 ## Servers for development
 - Server 1: ubuntu@35.83.137.252
 - Server 2: ubuntu@34.213.205.112
